@@ -16,4 +16,4 @@ in this allocation algorithm, the system also can choose any cells to allocate f
 Also, the system allows for the creation and deletion of users in the system, and the admin can grant a user creation access or deletion access on any directory in the file system, so that a user can't manipulate files and folders unless they're granted access to do so by the admin.
 
 # Collaboration
-The project is built in collaboration with [Ahmed AlaaEldin ShikhTawel](https://github.com/ShikhTawel) for the advanced operating systems course.
+The project is built in collaboration with [Mahmoud Abdelazeeml](https://github.com/MahmoudAbdelazim) for the advanced operating systems course.
